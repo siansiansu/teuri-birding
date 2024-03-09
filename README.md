@@ -2,8 +2,12 @@
 
 :::success
 寫給每位路癡體質和拉肚子體質的鳥友
+:::
 
-如果這篇賞鳥筆記對您有幫助，也請答應我請不要餵食及播放鳥音，悄悄的觀察，悄悄的離開。
+:::warning
+如果這篇賞鳥筆記對您有幫助，也請答應我不要餵食及播放鳥音
+
+請安靜的觀察，不動聲色的離開
 :::
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/teuri-birding)

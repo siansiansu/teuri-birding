@@ -1,9 +1,9 @@
 # 寫給賞鳥新手的賞鳥筆記 - 天売島篇
 
 :::success
-也寫給每位路癡體質和拉肚子體質的鳥友
+寫給每位路癡體質和拉肚子體質的鳥友
 
-如果這篇賞鳥筆記對您有幫助，請答應我請不要餵食及播放鳥音
+如果這篇賞鳥筆記對您有幫助，也請答應我請不要餵食及播放鳥音，安靜的觀察，不打擾環境。
 :::
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/teuri-birding)

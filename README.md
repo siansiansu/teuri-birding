@@ -4,7 +4,14 @@
 也寫給每位路癡體質和拉肚子體質的鳥友
 :::
 
+:::warning
+如果這篇賞鳥筆記對您有幫助，請答應我不要隨意餵食及播放鳥音
+
+感恩感恩 🙏
+:::
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/siansiansu/teuri-birding)
+[![hackmd-github-sync-badge](https://hackmd.io/Cta4xlQRSCOBU6F1wehnDw/badge)](https://hackmd.io/Cta4xlQRSCOBU6F1wehnDw)
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/ec2185c8-656a-421b-80cf-31ec2c78021e)
 
@@ -20,7 +27,9 @@
 
 ## 交通
 
-## 住宿
+### Day 1 - 新千歲機場到札幌市區
+
+我們是從`新千歲機場`搭乘 JR `千歲線`到`札幌車站`下車，車程大概 50 分鐘左右。
 
 
 ## 行李寄放

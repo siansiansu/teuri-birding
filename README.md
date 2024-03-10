@@ -25,12 +25,55 @@
 6. [観音岬展望台](https://maps.app.goo.gl/hGMnnMsAZoqc2vkh9)
 7. [愛鳥公園](https://maps.app.goo.gl/hSxJCDbeqyduQpka8)
 
-## 交通
+## 交通住宿
 
 ### Day 1 - 新千歲機場到札幌市區
 
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/0bc33d87-c9dc-43db-9822-d14c715190ea)
+
 我們是從`新千歲機場`搭乘 JR `千歲線`到`札幌車站`下車，車程大概 50 分鐘左右。
 
+到了`札幌車站`後，我們先到明天搭乘巴士的售票處探路。
+
+售票亭的營業時間是 7:30 ～ 18:00，我們預計是搭明天早上八點的巴士。
+
+<img width="1006" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/9e85f387-22e0-40f4-ab0b-59f1fe88ca58">
+
+上圖是巴士搭乘處，售票亭前的佈告欄，我們習慣會拍照紀錄，並且核對和網站寫的資訊是不是一致。
+
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/a345f5b3-d185-49d4-8ef9-b1a7800fd513)
+
+因為搭交通工具很累，我們選擇在札幌住了一天，也當作旅程的緩衝。
+
+住宿的話，選擇離車站比較近的飯店，[三井ガーデンホテル札幌ウエスト](https://maps.app.goo.gl/7gAZQoJF9Lqt8hUx9)，走路就可以到。
+
+明天早上起床就可以用走的去`札幌車站`搭車。
+
+我們也順便在附近的超商採買明天的早餐和威德果凍。
+
+## Day 2 - 札幌市區到羽幌町
+
+從`札幌`到`羽幌`搭乘的巴士叫做`特急はぼろ号`，公司名字叫`沿岸バス株式会社`
+
+搭乘的地點在`札幌駅`前ターミナル的中間段，編號 11 的搭乘站
+
+雖然早上八點才開車，但我們準時 7:30 就到售票亭買車票，剩下的半小時用來休息和上廁所。
+
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/2f2adf87-07e8-4800-a60e-406dc0564a36)
+
+搭乘前請確認上圖紅色箭頭指的三個地方。
+
+<img width="1007" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/c9e4bd6f-0c02-435c-9f37-5b1262f8bb77">
+
+上車後，巴士的前方有個螢幕，會標示到站的站名，請確認巴士名稱是`特急はぼろ号`，以及公司名稱`沿岸バス株式会社`
+
+那，`特急はぼろ号`的票要怎麼預定呢？
+
+我們是在出發的一個月前，使用 JCB 的[貴賓服務中心諮詢專線](https://www.tw.jcb/zh-tw/consumers/platinum/concierge-desk/index.html)，由專人打電話幫我們預定的。
+
+所以出發前只要跟站務人員核對資料就可以了。
+
+完整的地圖請點擊[這裡](https://www.google.com/maps/d/viewer?mid=1ORkGVxz_XtF2nVgEJyxoAdXapB0&msa=0&ll=43.297614559034834%2C141.4460531734332&spn=0.041408%2C0.076647&iwloc=0004c78177c49e634f0fd&z=13)
 
 ## 行李寄放
 

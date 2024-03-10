@@ -27,7 +27,7 @@
 
 ## 交通住宿
 
-### Day 1 - 新千歲機場到札幌市區
+### 新千歲機場到札幌市區
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/0bc33d87-c9dc-43db-9822-d14c715190ea)
 
@@ -57,7 +57,7 @@
 
 另外我們也順便在附近的超商採買明天的早餐和威德果凍。
 
-## Day 2 - 札幌市區到羽幌町
+## 札幌市區到羽幌町
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/2f2adf87-07e8-4800-a60e-406dc0564a36)
 
@@ -134,7 +134,7 @@
 
 乘船處非常明顯，有個藍色絕對不會認錯的屋頂。
 
-### Day 2 - 意外的插曲
+### 意外的插曲
 
 其實我們本來規劃今天就到天売島的，但風雨太大，船停駛，原本的計畫都被打亂了。
 
@@ -219,7 +219,7 @@
 吃完後我們飽到快吐了，平野先生是對的。
 
 
-## Day 3 - 羽幌町到天売島
+## 羽幌町到天売島
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/3d18ed18-8fc2-400c-8db3-a20a36e1431b)
 
@@ -278,15 +278,37 @@
 
 鳥點的話，就是我放在最前面封面圖的那張圖，總共有 `7` 個鳥點。
 
-1. [厳島神社](https://maps.app.goo.gl/Nz2rfTboZNkyVWPN6)
-2. [海竜寺](https://maps.app.goo.gl/9nhHJ9pSu2cj2gns9)和[三吉神社](https://maps.app.goo.gl/GLScWRZLAVhyvU7r6)之間步道
-3. [黒崎海岸](https://maps.app.goo.gl/NeHcrmf8iSvTeeSx6)
-4. [赤岩展望台](https://maps.app.goo.gl/YR2t2xV84nVwyvkp8)
-5. [海鳥観察舎](https://maps.app.goo.gl/XASqdGmt8J14GNpT8)
-6. [観音岬展望台](https://maps.app.goo.gl/hGMnnMsAZoqc2vkh9)
-7. [愛鳥公園](https://maps.app.goo.gl/hSxJCDbeqyduQpka8)
+<img width="1005" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/529e6299-7bb9-42e1-ac00-65b51b5e26e2">
 
-請依照自己的時間安排行程。
+上圖是[厳島神社](https://maps.app.goo.gl/Nz2rfTboZNkyVWPN6)，後面繞過去有個鎮魂碑。
+
+請抱著敬畏的心，不要打擾到當地的神民。
+
+<img width="998" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/adc853d1-dfba-424b-8356-cf49c121b3ae">
+
+上圖是[海竜寺](https://maps.app.goo.gl/9nhHJ9pSu2cj2gns9)入口。
+
+<img width="1003" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/5f568d04-16e3-4f1f-86a6-a41ae3a82048">
+
+上圖是[三吉神社](https://maps.app.goo.gl/GLScWRZLAVhyvU7r6)。
+
+<img width="1001" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/f71b4c89-eea3-4f85-b075-6c68ef871344">
+
+上圖是[黒崎海岸](https://maps.app.goo.gl/NeHcrmf8iSvTeeSx6)。
+
+<img width="1003" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/91140154-3353-442a-8320-5f773e45c317">
+
+上圖是[赤岩展望台](https://maps.app.goo.gl/YR2t2xV84nVwyvkp8)。
+
+<img width="1005" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/896aee37-2120-4d6e-95c0-2cb5a060f52a">
+
+上圖是[海鳥観察舎](https://maps.app.goo.gl/XASqdGmt8J14GNpT8)。
+
+<img width="1001" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/15996b8c-6bfd-4bb6-890d-4a677f8ceff8">
+
+上圖是[観音岬展望台](https://maps.app.goo.gl/hGMnnMsAZoqc2vkh9)。
+
+請依照自己的時間安排行程囉。
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/5b889511-42b9-470d-b4ea-d23de1b6d26b)
 
@@ -359,7 +381,6 @@
 
 上圖是第三天民宿提供的早餐。
 
-
 ## 當地導遊
 
 
@@ -377,15 +398,16 @@
 
 當地只有兩家商店，彼此開在附近。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/a4202f2c-fe46-42e8-ad48-f634848abc3d)
+<img width="1001" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/517e2237-9df8-45f1-9e4b-c42cd8d6c37d">
 
-- [マルサン三浦酒店](https://maps.app.goo.gl/xTrwomfzWbPk6uaz8)比較舊一點，可以挖到不少寶，老奶奶是陽岱鋼球迷，聽到我們從台灣來，還送我們紀念品。
-- [川口商店](https://maps.app.goo.gl/EjKCL6MTBeFFfLFG7)比較多生鮮雜貨，賣的東西和`マルサン三浦酒店`不太一樣。
+上圖是[マルサン三浦酒店](https://maps.app.goo.gl/xTrwomfzWbPk6uaz8)比較舊一點，可以挖到不少寶，老奶奶是陽岱鋼球迷，聽到我們從台灣來，還送我們紀念品。
+
+
+<img width="1001" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/50e6d545-e58f-4f90-981f-dd661409ad66">
+
+上圖是[川口商店](https://maps.app.goo.gl/EjKCL6MTBeFFfLFG7)比較多生鮮雜貨，賣的東西和`マルサン三浦酒店`不太一樣。
 
 我們在這兩間商店補充了不少物資，餅乾、暖暖包等等，也買了不少紀念品。
-
-## 重要提醒
-
 
 
 ## 行李寄放

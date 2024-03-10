@@ -270,6 +270,8 @@
 
 到了天売島後，會看到民宿老闆在碼頭邊舉牌，不會認錯的。
 
+基本上只要到了島上，其他部分就不太需要擔心了，放鬆心情賞鳥吧！
+
 ## 鳥點
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/ec2185c8-656a-421b-80cf-31ec2c78021e)
@@ -284,13 +286,11 @@
 6. [観音岬展望台](https://maps.app.goo.gl/hGMnnMsAZoqc2vkh9)
 7. [愛鳥公園](https://maps.app.goo.gl/hSxJCDbeqyduQpka8)
 
-請依照自己的時間安排行程吧！
+請依照自己的時間安排行程。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/496d935a-edb3-4541-b85b-5effba908e23)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/5b889511-42b9-470d-b4ea-d23de1b6d26b)
 
 上圖箭頭畫起來陡升和陡降的地方要注意。
-
-圈起來的地方是天売島最熱鬧的地方，民宿和商店都在那。
 
 :::success
 💡在島上作客的時候，請不要打擾到當地的居民喔！
@@ -359,9 +359,6 @@
 
 上圖是第三天民宿提供的早餐。
 
-:::success
-鳥圖沒有貼沒關係，但跟吃有關的一定要貼。
-:::
 
 ## 當地導遊
 
@@ -372,19 +369,20 @@
 
 上圖是我們租電動腳踏車的地方，店名叫[おろろんレンタル](https://maps.app.goo.gl/jmSJpinPFG6M5ppz8)。
 
-老奶奶常有活力，我們跟她學很多日語，她非常的開心！
+老奶奶非常有活力，我們跟她學很多日語，她非常的開心！
 
 ## 當地商店
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/9cf822a2-9a59-4f6d-9651-21b4a418b0f4)
 
-當地的商店有兩家，開在附近。
+當地只有兩家商店，彼此開在附近。
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/a4202f2c-fe46-42e8-ad48-f634848abc3d)
 
 - [マルサン三浦酒店](https://maps.app.goo.gl/xTrwomfzWbPk6uaz8)比較舊一點，可以挖到不少寶，老奶奶是陽岱鋼球迷，聽到我們從台灣來，還送我們紀念品。
-- [川口商店](https://maps.app.goo.gl/EjKCL6MTBeFFfLFG7)比較新，但賣的東西和`マルサン三浦酒店`不太一樣。
+- [川口商店](https://maps.app.goo.gl/EjKCL6MTBeFFfLFG7)比較多生鮮雜貨，賣的東西和`マルサン三浦酒店`不太一樣。
 
+我們在這兩間商店補充了不少物資，餅乾、暖暖包等等，也買了不少紀念品。
 
 ## 重要提醒
 
@@ -405,3 +403,7 @@
 ![image](https://github.com/siansiansu/tomakomai-birding/assets/33391637/ff10f37d-e61d-4f9b-9b4c-9182f604b76d)
 
 我們是使用這個服務，要注意取件時間只到晚上八點，超過就沒辦法取件囉！
+
+:::warning
+如果您喜歡我的賞鳥筆記、台語文的推廣，歡迎[小額贊助](https://portaly.cc/siansiansu/support)請我喝咖啡。
+:::

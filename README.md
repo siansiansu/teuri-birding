@@ -63,7 +63,7 @@
 
 搭乘前請確認上圖紅色箭頭指的三個地方。
 
-<img width="1007" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/c9e4bd6f-0c02-435c-9f37-5b1262f8bb77">
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/0dea858f-601a-4330-b9a4-9edd8c199b67)
 
 上車後，巴士的前方有個螢幕，會標示到站的站名，請再次確認巴士名稱是`特急はぼろ号`，公司名稱是`沿岸バス株式会社`
 
@@ -71,7 +71,12 @@
 
 從座位往外看。
 
--
+.
+
+.
+
+.
+
 
 重要的來了，`特急はぼろ号`巴士的票是預約制的，要怎麼預約呢？
 

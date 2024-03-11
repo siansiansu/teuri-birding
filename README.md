@@ -488,11 +488,15 @@
 
 老奶奶非常有活力，我們跟她學很多日語，她非常的開心！
 
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/8bac931b-3831-4d5f-b05a-f144a759436d)
+
+離港口很近，一到島上，我們就直接來這裡租電動腳踏車。
+
 ## 當地商店
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/9cf822a2-9a59-4f6d-9651-21b4a418b0f4)
 
-當地只有兩家商店，彼此開在附近。
+當地只有兩家商店。
 
 <img width="1001" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/517e2237-9df8-45f1-9e4b-c42cd8d6c37d">
 

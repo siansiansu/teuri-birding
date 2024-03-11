@@ -77,7 +77,7 @@
 :::info
 💡為什麼是威德果凍和能量飲？
 
-因為之前提到我有弱弱腸胃，在搭乘長途巴士之前，是不能亂吃早餐的。
+因為我有弱弱腸胃，在搭乘長途巴士之前，是不能亂吃早餐的！
 
 麵包、蛋奶類、油脂都不能碰！
 :::
@@ -359,7 +359,7 @@
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/eaef10e7-f14b-40cf-addf-b955146a64a5)
 
-我把相對位置標出來，過了這裡就是一路陡升，建議在這裡休息一下補充體力。
+我把相對位置標出來，這裡是陡升段，建議在燈塔這休息一下補充體力。
 
 <img width="1003" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/91140154-3353-442a-8320-5f773e45c317">
 

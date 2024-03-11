@@ -27,7 +27,7 @@
 
 ## 交通住宿
 
-### 新千歲機場到札幌市區
+### 新千歲機場 ⭢ 札幌
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/0bc33d87-c9dc-43db-9822-d14c715190ea)
 
@@ -35,6 +35,7 @@
 
 我們從`新千歲機場`搭乘 `JR 千歲線`到`札幌車站`下車，車程大概 `50` 分鐘左右。
 
+雖然也有巴士可以坐，但因為我的腸胃很常不舒服，所以還是習慣搭火車。
 
 <img width="1006" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/9e85f387-22e0-40f4-ab0b-59f1fe88ca58">
 
@@ -42,6 +43,8 @@
 到了`札幌車站`後，我們先到明天搭乘巴士的售票處探路。
 
 售票亭的營業時間是 `7:30 ～ 18:00`，我們預計是搭明天`早上八點`出發的巴士。
+
+其實我們本來想在今天先拿票的，但已經超過營業時間。
 
 上圖是售票亭前的佈告欄。
 
@@ -53,11 +56,19 @@
 
 因為搭交通工具很累，我們選擇在札幌住了一天，也當作旅程的緩衝。
 
-離車站很近走路就可以到，這樣明天早上起床就可以用走的去`札幌車站`搭車。
+離車站很近走路就可以到，這樣明天早上起床就可以直接去`札幌車站`搭車。
 
-另外我們也順便在附近的超商採買明天的早餐和威德果凍。
+另外我們也順便在附近的超商採買明天的早餐、威德果凍和能量飲。
 
-## 札幌市區到羽幌町
+:::info
+💡為什麼是威德果凍和能量飲？
+
+因為之前提到我有弱弱腸胃，在搭乘長途巴士之前，是不能亂吃早餐的。
+
+麵包、蛋奶類、油脂都不能碰！
+:::
+
+## 札幌 ⭢ 羽幌
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/2f2adf87-07e8-4800-a60e-406dc0564a36)
 
@@ -67,25 +78,29 @@
 
 雖然早上八點才開車，但我們準時早上七點半就到售票亭買車票。
 
-:::warning
-剩下的半小時用來休息和上廁所，請務必提早到！
+:::info
+💡剩下的半小時用來休息和上廁所，請務必提早到！
 :::
 
-上巴士前請確認上圖紅色箭頭指的三個地方，不要坐錯車啦！
+上巴士前請確認上圖紅色箭頭指的三個地方，不要坐錯車囉！
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/0dea858f-601a-4330-b9a4-9edd8c199b67)
 
 上圖是巴士面對司機的方向，前方有個螢幕，會標示到站的站名，請再次確認巴士名稱是`特急はぼろ号`，公司名稱是`沿岸バス株式会社`。
 
+有看到現在是 7:53 分嗎？到了 8:00 會準時開車，不等人的喔！
+
 <img width="560" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/adf92442-2b0b-4b36-a240-2a2de85278c4">
 
 上圖的 A4 紙是電話預約的資料，右上角釘起來的地方則是車票本人（講本票好像怪怪的）。
 
-要注意`特急はぼろ号`巴士的來回票是預約制的。
+:::info
+💡`特急はぼろ号`巴士的來回票是預約制。
 
-我們在出發的一個月前，使用 JCB 的[貴賓服務中心諮詢專線](https://www.tw.jcb/zh-tw/consumers/platinum/concierge-desk/index.html)，由專人打電話幫我們預定的。
+我們是在出發的一個月前，使用 [JCB 的貴賓服務中心諮詢專線](https://www.tw.jcb/zh-tw/consumers/platinum/concierge-desk/index.html)，由專人打電話幫我們預定的。
+:::
 
-所以出發前只要跟站務人員核對資料就可以了，買票大概花了五分鐘。
+出發前只要跟站務人員核對資料就可以了，買票大概花了五分鐘左右。
 
 <img width="604" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/8de223de-d192-42c9-8bd2-412eb2e4a3fe">
 
@@ -100,55 +115,75 @@
 總車程大約是三個小時，當窗外的景色變成海之後，就代表快要到`羽幌`了。
 
 :::warning
-完整的巴士路線地圖請點擊[這裡](https://www.google.com/maps/d/viewer?mid=1ORkGVxz_XtF2nVgEJyxoAdXapB0&msa=0&ll=43.297614559034834%2C141.4460531734332&spn=0.041408%2C0.076647&iwloc=0004c78177c49e634f0fd&z=13)
+👉 完整的巴士路線地圖請點擊[這裡](https://www.google.com/maps/d/viewer?mid=1ORkGVxz_XtF2nVgEJyxoAdXapB0&msa=0&ll=43.297614559034834%2C141.4460531734332&spn=0.041408%2C0.076647&iwloc=0004c78177c49e634f0fd&z=13)
 
 :::
 
 <img width="1004" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/0e6feea9-5cb6-4594-a451-75eb2cd10d8b">
 
-到`羽幌`後，巴士會開到一個叫做`沿岸バス 本社ターミナル`的地方，請記得下車！
+到`羽幌`後，巴士會開到一個叫做`沿岸バス 本社ターミナル`的地方，裡面沒有站務人員。
 
 廁所在這棟建築物的後面，很舊，但非常乾淨。
 
 <img width="604" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/f2f38eba-377d-47b5-8240-fb4ba569dea4">
 
-候車亭裡面有暖爐。
+上圖是候車亭裡面的暖爐。
+
+五月中的北海道，天氣還是很冷，我們防寒衣物帶不夠，到了羽幌差不多就快不行了，後來差點冷死在天売島。
+
+我們黏在暖爐旁邊很久。
+
+有看到圖片右邊的書架上放很多摺頁嗎？記得去拿！
+
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/84ab9cc8-6181-4a8a-94c2-eddf7666ffc2)
+
+天売島手繪地圖，這張很值得收藏紀念。
+
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/09d90258-d862-4111-8da0-0aecaf3822f8)
+
+天売島上的一些指引。
+
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/a777e7d9-48ef-4b2f-84c1-d4e391651826)
+
+很漂亮的地圖。
 
 <img width="547" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/d07cf726-384d-478a-a7ec-69b8d6db6d3e">
 
-手繪路線圖。
+候車亭很有年代感，上圖是裡面的手繪路線圖。
 
-五月中的北海道，天氣還是很冷，我們防寒衣物帶不夠，在`羽幌`差不多就快不行了，後來差點冷死在天売島。
-
-.
-
-.
-
-.
+我們在這裡大概待了半小時，休息和上廁所。
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/09ffb79d-7cfe-4cf7-8748-9e95c303423a)
 
-上圖是`沿岸バス 本社ターミナル`到乘船處的距離，用走的大概`15`分鐘，也有接駁車可以坐。
+上圖是`沿岸バス 本社ターミナル`到乘船處的距離，用走的大概`15`分鐘，也可以等接駁車。
+
+接駁車非常明顯，會停在候車亭旁，不會錯過的。
 
 <img width="814" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/830b02fd-fd04-430b-a454-462c9554b0a0">
 
-乘船處非常明顯，有個藍色絕對不會認錯的屋頂。
+乘船處也非常明顯，有個藍色絕對不會認錯的屋頂。
+
+![24D48D5E-2EEB-4D61-8E74-C5443C5BD106](https://github.com/siansiansu/teuri-birding/assets/33391637/95d2485e-175a-4d1e-b0a9-b2d02a334600)
+
+進去乘船處後，門的左邊是諮詢處，門的右邊是售票處。
+
+我們先到上圖的諮詢處詢問，也因為這樣認識了平野先生。
 
 ### 意外的插曲
 
 其實我們本來規劃今天就到天売島的，但風雨太大，船停駛，原本的計畫都被打亂了。
 
-諮詢處的平野先生看我們風雨中拖著行李箱很狼狽，於是臨時幫我們找住宿，還幫我們打電話給民宿說明。
+諮詢處的平野先生看我們在風雨中拖著行李箱很狼狽，於是臨時幫我們找住宿，還幫我們打電話給民宿說明。
 
-幫我們安排好後，還提早下班載我們到處玩！
-
-<br/>
-
-我說...平野先生，這樣子沒關係嗎？
+幫我們安排好後，還提早下班載我們到處玩！！！
 
 <br/>
 
-沒關係，沒關係！！！！
+🙋‍♂️：平野先生，這樣子沒關係嗎？
+
+<br/>
+
+🧔：沒關係，沒關係！！！！
 
 <br/>
 
@@ -156,21 +191,21 @@
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/9251a42a-438f-4c55-bd45-a996e2fe56c2)
 
-上圖是我們遊玩的路線，其實我們還有到處兜風啦！
+上圖是我們遊玩的路線，其實我們還到處兜風😆
 
 <br/>
 
-我說...平野先生，這樣提早下班到處玩真的沒關係嗎？
+🙋‍♂️：欸...平野先生，早退下班到處玩真的沒關係嗎？
 
 <br/>
 
-沒關係，沒關係！！！！
+🧔：沒關係，沒關係！！！！
 
 #### 北海道海鳥センター
 
 <img width="1004" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/2c3e5fb4-9856-49ac-97d9-af76c0be9e2d">
 
-上圖是從門口往裡面拍的照片，北海道海鳥センター非常推薦值得一逛。
+上圖是從北海道海鳥センター門口往裡面拍的照片，非常推薦值得一逛。
 
 <img width="999" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/a768eadc-9a2b-4ab3-9409-3c3778e2e4b2">
 
@@ -180,30 +215,32 @@
 
 也有各種鳥類的情報。
 
+記得蓋章拿摺頁！！！！
+
 :::info
-[補充] 北海道海鳥センター的開放時間是 09:00 - 17:00，每個禮拜一休館。
+💡 北海道海鳥センター的開放時間是 09:00 - 17:00，每個禮拜一休館。
 :::
 
 #### 甘えびファクトリー 蝦名漁業部 えび漁師第51高砂丸直売店
 
 <img width="1000" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/b66eb41c-89be-4d49-9904-79e00965af07">
 
-不囉唆，直接上圖。
+直接上圖。
 
 平野先生看到後非常驚恐，等下要吃晚餐了欸，你們這樣吃得下嗎？
 
 <br/>
 
-你們會不會點太多了啊！！！！！！！！！！！
+🧔：我說你們會不會點太多了啊！！！！！！！！！！！
 
 <br/>
 
-當然不會！晚餐是另外一個胃啊！！！！！！！！！！
+🫃：當然不會！晚餐是另外一個胃！！！！！！！！！！
 
 <br/>
 
 :::info
-[補充] 蝦名漁業部的營業時間是 09:00–16:00，每個禮拜日休館。
+💡 蝦名漁業部的營業時間是 09:00–16:00，每個禮拜日休館。
 :::
 
 #### カフェ＆イン吉里吉里
@@ -219,15 +256,13 @@
 吃完後我們飽到快吐了，平野先生是對的。
 
 
-## 羽幌町到天売島
+## 羽幌 ⭢ 天売島
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/3d18ed18-8fc2-400c-8db3-a20a36e1431b)
 
 天還沒亮我就起床，準備到附近的`羽幌公園`賞鳥，上圖是我走的路線。
 
 :::success
-[補充]
-
 上班 mode ⭢ 睡到 10 點還在賴床，還睡不飽
 
 賞鳥 mode ⭢ 天還沒亮就從床上彈起來，準備賞鳥
@@ -243,7 +278,7 @@
 
 吉里吉里的早餐非常厲害。
 
-雖然我很怕暈船，但要在暈船跟早餐之間選一個，我還是會選早餐。
+雖然我很怕暈船，但暈船跟早餐之間選一個，我還是會選早餐。
 
 吃完後，民宿老闆就載我們到碼頭。
 
@@ -280,37 +315,59 @@
 
 <img width="1005" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/529e6299-7bb9-42e1-ac00-65b51b5e26e2">
 
-上圖是[厳島神社](https://maps.app.goo.gl/Nz2rfTboZNkyVWPN6)，後面繞過去有個鎮魂碑。
+上圖是[厳島神社](https://maps.app.goo.gl/Nz2rfTboZNkyVWPN6)，後面繞過去有個鎮魂碑，在這裡靜靜的等一下，會有很多鳥。
 
-請抱著敬畏的心，不要打擾到當地的神民。
+:::success
+💡 請抱著敬畏的心，不要打擾到當地的神明喔！
+:::
 
 <img width="998" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/adc853d1-dfba-424b-8356-cf49c121b3ae">
 
 上圖是[海竜寺](https://maps.app.goo.gl/9nhHJ9pSu2cj2gns9)入口。
 
+沿著道路走，會接一個斜坡通到`天売葬斎場`。
+
 <img width="1003" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/5f568d04-16e3-4f1f-86a6-a41ae3a82048">
 
 上圖是[三吉神社](https://maps.app.goo.gl/GLScWRZLAVhyvU7r6)。
+
+這裡已經荒廢了，路旁都是草，行走的時候要小心。
 
 <img width="1001" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/f71b4c89-eea3-4f85-b075-6c68ef871344">
 
 上圖是[黒崎海岸](https://maps.app.goo.gl/NeHcrmf8iSvTeeSx6)。
 
+雖然鷗鷗已經很習慣人類了，但我們還是習慣躡手躡腳的前進。
+
+<img width="997" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/eb809a38-f3ad-4cb4-95e5-bda32c4b9109">
+
+上圖是海雀的巢區，順著步道走，不要隨意離開步道。
+
+有看到上面有個燈塔嗎？燈塔叫`赤岩埼灯台`，附近有個廁所。
+
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/eaef10e7-f14b-40cf-addf-b955146a64a5)
+
+我把相對位置標出來，過了這裡就是一路陡升，建議在這裡休息一下補充體力。
+
 <img width="1003" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/91140154-3353-442a-8320-5f773e45c317">
 
-上圖是[赤岩展望台](https://maps.app.goo.gl/YR2t2xV84nVwyvkp8)。
+上圖是[赤岩展望台](https://maps.app.goo.gl/YR2t2xV84nVwyvkp8)，從海雀巢區往下走。
+
+到了展望台往下看就是赤岩，風非常非常的大，溫度非常非常的冷！
 
 <img width="1005" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/896aee37-2120-4d6e-95c0-2cb5a060f52a">
 
 上圖是[海鳥観察舎](https://maps.app.goo.gl/XASqdGmt8J14GNpT8)。
 
+這裡是可以遮風避雨休息的地方，但沒有廁所。
+
 <img width="1001" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/15996b8c-6bfd-4bb6-890d-4a677f8ceff8">
 
-上圖是[観音岬展望台](https://maps.app.goo.gl/hGMnnMsAZoqc2vkh9)。
+上圖是[観音岬展望台](https://maps.app.goo.gl/hGMnnMsAZoqc2vkh9)，可以看到不少雨燕。
 
 請依照自己的時間安排行程囉。
 
-![image](https://github.com/siansiansu/teuri-birding/assets/33391637/5b889511-42b9-470d-b4ea-d23de1b6d26b)
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/cf2e6123-2bae-4e68-811b-686af750505b)
 
 上圖箭頭畫起來陡升和陡降的地方要注意。
 
@@ -328,12 +385,13 @@
 
 - 我們從哪裡來
 - 來幾天
-- 因為朋友介紹這間民宿才認識
-- 主要的目的是賞鳥等等資訊
+- 因為朋友的介紹才認識這間民宿
+- 不會說日語，會使用翻譯軟體溝通
+- 主要來賞鳥等等資訊
 
 因為我們去的時間是 2023 年，那時候疫情剛解禁。
 
-我們也額外說明出發前有快篩過，沒有感染武漢肺炎，很有禮貌咳咳。
+我們也額外說明出發前有快篩過，沒有感染武漢肺炎，是個有禮貌的孩子呢！
 
 <img width="1004" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/753396d0-24cc-4c24-9239-cd64214ca194">
 
@@ -342,6 +400,10 @@
 <img width="1031" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/fb6f5870-9ca8-4770-87ef-57016668ea95">
 
 食材非常的新鮮。
+
+<img width="810" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/97d3995c-0110-4e33-8eca-e1d4cb967c24">
+
+特寫。
 
 <img width="601" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/d7e3799f-9c64-487d-94b5-93696240d9fb">
 
@@ -401,7 +463,6 @@
 <img width="1001" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/517e2237-9df8-45f1-9e4b-c42cd8d6c37d">
 
 上圖是[マルサン三浦酒店](https://maps.app.goo.gl/xTrwomfzWbPk6uaz8)比較舊一點，可以挖到不少寶，老奶奶是陽岱鋼球迷，聽到我們從台灣來，還送我們紀念品。
-
 
 <img width="1001" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/50e6d545-e58f-4f90-981f-dd661409ad66">
 

@@ -25,6 +25,16 @@
 6. [観音岬展望台](https://maps.app.goo.gl/hGMnnMsAZoqc2vkh9)
 7. [愛鳥公園](https://maps.app.goo.gl/hSxJCDbeqyduQpka8)
 
+## 重要提醒懶人包
+
+因為本文有點長，所以把重要資訊集中在最前頭。
+
+- 札幌到羽幌的巴士採預約制，請在出發的一個月前，使用 [JCB 的貴賓服務中心諮詢專線](https://www.tw.jcb/zh-tw/consumers/platinum/concierge-desk/index.html)或是請熟悉日語的朋友，打電話預約。
+- 當地的導遊請提早預約，網址是[天売島観光サイト「天売島.jp」](https://www.teuri.jp/)。
+- 當地的住宿請提早預約。
+- 帶暈船藥。
+- 天売島的旺季是夏季。
+
 ## 交通住宿
 
 ### 新千歲機場 ⭢ 札幌
@@ -38,7 +48,6 @@
 雖然也有巴士可以坐，但因為我的腸胃很常不舒服，所以還是習慣搭火車。
 
 <img width="1006" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/9e85f387-22e0-40f4-ab0b-59f1fe88ca58">
-
 
 到了`札幌車站`後，我們先到明天搭乘巴士的售票處探路。
 
@@ -255,7 +264,6 @@
 
 吃完後我們飽到快吐了，平野先生是對的。
 
-
 ## 羽幌 ⭢ 天売島
 
 ![image](https://github.com/siansiansu/teuri-birding/assets/33391637/3d18ed18-8fc2-400c-8db3-a20a36e1431b)
@@ -283,7 +291,6 @@
 吃完後，民宿老闆就載我們到碼頭。
 
 雖然天氣還是很不好，但很幸運的是船有開。
-
 
 ### 船班資訊
 
@@ -385,9 +392,9 @@
 
 - 我們從哪裡來
 - 來幾天
+- 我們不會說日語，會使用翻譯軟體溝通
+- 主要來賞鳥
 - 因為朋友的介紹才認識這間民宿
-- 不會說日語，會使用翻譯軟體溝通
-- 主要來賞鳥等等資訊
 
 因為我們去的時間是 2023 年，那時候疫情剛解禁。
 
@@ -468,7 +475,6 @@
 💡除了在網站預約外，我們也另外跟民宿老闆說明我們有預約這些行程，因為我們不會說日語，請他們幫我們注意一下。
 :::
 
-
 ## 租腳踏車
 
 <img width="805" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/27d498af-f31a-4715-a6bc-45b1a65ab708">
@@ -495,28 +501,31 @@
 
 ## 鳥訊
 
-- [eBird]()
-- [iNaturalist]()
+- [eBird](https://www.ebird.org/)
+- [iNaturalist](https://www.inaturalist.org/)
 
 ## 網站和粉絲專頁
 
-- [天売島観光サイト「天売島.jp」](https://www.teuri.jp/)
-- [漁師の宿 民宿「栄丸」](http://sakaemaru.jp/)
 - [TERRA images 寺沢孝毅 Official site](https://terra-images.jp/)
+- [北海道海鳥センターへ](http://www.seabird-center.jp/)
+- [天売島観光サイト「天売島.jp」](https://www.teuri.jp/)
+- [沿岸バス株式会社](https://www.engan-bus.co.jp/)
+- [漁師の宿 民宿「栄丸」](http://sakaemaru.jp/)
+- [甘えびファクトリー　蝦名漁業部](https://amaebi.life/factory/)
 
 Facebook
 
+- [北海道海鳥センター](https://www.facebook.com/seabirdcenter)
 - [天売島 バードツーリズム](https://www.facebook.com/teuribird)
 - [天売島.jp  (Teuri Island)](https://www.facebook.com/teuri.jp)
 - [寺沢 孝毅](https://www.facebook.com/keimafuri)
-- [北海道海鳥センター](https://www.facebook.com/seabirdcenter)
+- [甘えびファクトリー　蝦名漁業部](https://www.facebook.com/profile.php?id=100057636782545)
 
 Instagram
 
 - [寺沢 孝毅](https://www.instagram.com/terraimages/)
-- [羽幌町観光協会](https://www.instagram.com/haboro_kankou/)
 - [羽幌沿海フェリー株式会社](https://www.instagram.com/haboro_enkai/)
-
+- [羽幌町観光協会](https://www.instagram.com/haboro_kankou/)
 
 ## 行李寄放
 

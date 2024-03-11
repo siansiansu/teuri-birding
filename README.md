@@ -445,6 +445,29 @@
 
 ## 當地導遊
 
+請參考這個網站 👉 [天売島観光サイト「天売島.jp」](https://www.teuri.jp/tour)
+
+![image](https://github.com/siansiansu/teuri-birding/assets/33391637/07142c7a-b445-4a7c-b7ab-221f74b5cc1e)
+
+點進去後，會看到上圖預約的時間表，就是這裡了。
+
+我們預約了兩個服務：
+
+- 【島内ツアー】ウトウの帰巣ナイトツアー
+- 【クルーズ】天売島の自然写真家・寺沢孝毅による小型ボート「ケイマフリ号」の海鳥観察＆撮影
+
+:::success
+💡ウトウの帰巣請在這裡預約，不需要帶手電筒，不要晚上自己去！
+:::
+
+<img width="817" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/b95e8c59-3923-4dbb-b7a8-aeceb333c130">
+
+從舢舨船尾端往前看大概長這樣。
+
+:::success
+💡除了在網站預約外，我們也另外跟民宿老闆說明我們有預約這些行程，因為我們不會說日語，請他們幫我們注意一下。
+:::
+
 
 ## 租腳踏車
 
@@ -469,6 +492,30 @@
 上圖是[川口商店](https://maps.app.goo.gl/EjKCL6MTBeFFfLFG7)比較多生鮮雜貨，賣的東西和`マルサン三浦酒店`不太一樣。
 
 我們在這兩間商店補充了不少物資，餅乾、暖暖包等等，也買了不少紀念品。
+
+## 鳥訊
+
+- [eBird]()
+- [iNaturalist]()
+
+## 網站和粉絲專頁
+
+- [天売島観光サイト「天売島.jp」](https://www.teuri.jp/)
+- [漁師の宿 民宿「栄丸」](http://sakaemaru.jp/)
+- [TERRA images 寺沢孝毅 Official site](https://terra-images.jp/)
+
+Facebook
+
+- [天売島 バードツーリズム](https://www.facebook.com/teuribird)
+- [天売島.jp  (Teuri Island)](https://www.facebook.com/teuri.jp)
+- [寺沢 孝毅](https://www.facebook.com/keimafuri)
+- [北海道海鳥センター](https://www.facebook.com/seabirdcenter)
+
+Instagram
+
+- [寺沢 孝毅](https://www.instagram.com/terraimages/)
+- [羽幌町観光協会](https://www.instagram.com/haboro_kankou/)
+- [羽幌沿海フェリー株式会社](https://www.instagram.com/haboro_enkai/)
 
 
 ## 行李寄放

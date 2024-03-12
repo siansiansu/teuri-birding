@@ -72,10 +72,10 @@
 
 離車站很近走路就可以到，這樣明天早上起床就可以直接去`札幌車站`搭車。
 
-另外我們也順便在附近的超商採買明天的早餐、威德果凍和能量飲。
+另外我們也順便在附近的超商採買明天的早餐、威德果凍和運動飲料。
 
 :::info
-💡為什麼是威德果凍和能量飲？
+💡為什麼是威德果凍和運動飲料？
 
 因為我有弱弱腸胃，在搭乘長途巴士之前，是不能亂吃早餐的！
 
@@ -179,9 +179,11 @@
 
 ![24D48D5E-2EEB-4D61-8E74-C5443C5BD106](https://github.com/siansiansu/teuri-birding/assets/33391637/95d2485e-175a-4d1e-b0a9-b2d02a334600)
 
-進去乘船處後，門的左邊是諮詢處，門的右邊是售票處。
+進去乘船處後，大門的左手邊是諮詢處，大門的右手邊是售票處。
 
-我們先到上圖的諮詢處詢問，也因為這樣認識了平野先生。
+廁所在諮詢處旁邊，進去後的通道。
+
+因為風雨很大，我們先到上圖的諮詢處詢問，也因為這樣認識了平野先生。
 
 ### 意外的插曲
 
@@ -223,13 +225,15 @@
 
 <img width="999" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/a768eadc-9a2b-4ab3-9409-3c3778e2e4b2">
 
-裡頭的展示非常豐富。
+裡頭的展示非常豐富，雖然主要都是日語解說，但我們用翻譯軟體一個一個看。
 
 <img width="1006" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/5b1cc474-68e0-493a-b094-622987f7a299">
 
 也有各種鳥類的情報。
 
-記得蓋章拿摺頁！！！！
+沒有什麼要注意的地方，裡面也有很乾淨的廁所。
+
+啊記得蓋章拿摺頁當紀念！！！！！！！
 
 :::info
 💡 北海道海鳥センター的開放時間是 09:00 - 17:00，每個禮拜一休館。
@@ -402,7 +406,7 @@
 - 我們從哪裡來
 - 來幾天
 - 我們不會說日語，會使用翻譯軟體溝通
-- 主要來賞鳥
+- 要來賞鳥
 - 因為朋友的介紹才認識這間民宿
 
 因為我們去的時間是 2023 年，那時候疫情剛解禁。
@@ -453,7 +457,7 @@
 
 <img width="1008" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/8790d439-84f3-46fc-9802-fb5e740ce88d">
 
-現剖海膽特寫，海膽還活著啊啊啊啊！！！
+現剖海膽，海膽還活著啊啊啊啊！！！
 
 <img width="563" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/dc9e9814-ecf8-4dfd-8434-44244c40a922">
 
@@ -514,11 +518,11 @@
 
 <img width="1001" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/517e2237-9df8-45f1-9e4b-c42cd8d6c37d">
 
-上圖是[マルサン三浦酒店](https://maps.app.goo.gl/xTrwomfzWbPk6uaz8)比較舊一點，可以挖到不少寶，老奶奶是陽岱鋼球迷，聽到我們從台灣來，還送我們紀念品。
+上圖是[マルサン三浦酒店](https://maps.app.goo.gl/xTrwomfzWbPk6uaz8)比較像雜貨店，店面稍微舊一點，可以挖到不少寶，老奶奶是陽岱鋼球迷，聽到我們從台灣來，還送我們紀念品。
 
 <img width="1001" alt="image" src="https://github.com/siansiansu/teuri-birding/assets/33391637/50e6d545-e58f-4f90-981f-dd661409ad66">
 
-上圖是[川口商店](https://maps.app.goo.gl/EjKCL6MTBeFFfLFG7)比較多生鮮雜貨，賣的東西和`マルサン三浦酒店`不太一樣。
+上圖是[川口商店](https://maps.app.goo.gl/EjKCL6MTBeFFfLFG7)，比較多生鮮蔬菜，賣的東西和`マルサン三浦酒店`稍微錯開。
 
 我們在這兩間商店補充了不少物資，餅乾、暖暖包等等，也買了不少紀念品。
 
